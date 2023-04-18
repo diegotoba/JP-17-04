@@ -20,5 +20,6 @@ public class Exerc05 {
     }
 
     System.out.println("A pessoa  mais nova se chama " + nomeMaisNovo);
+    nome.close();idade.close();
   }
 }

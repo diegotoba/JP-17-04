@@ -10,5 +10,6 @@ public class Exerc03 {
     for (int i = 0; i <= numero; i++) {
       System.out.println(i);
     }
+    input.close();
   }
 }

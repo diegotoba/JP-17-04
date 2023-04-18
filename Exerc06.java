@@ -17,5 +17,6 @@ public class Exerc06 {
       b = i;
       System.out.println(i);
     }
+    input.close();
   }
 }

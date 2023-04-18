@@ -1,4 +1,3 @@
-import java.io.InputStream;
 import java.util.Scanner;
 
 public class Exerc07 {
@@ -22,5 +21,6 @@ public class Exerc07 {
         System.out.println(i);
       }
     }
+    input.close();
   }
 }

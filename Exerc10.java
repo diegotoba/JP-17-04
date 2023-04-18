@@ -23,5 +23,6 @@ public class Exerc10 {
       }
     }
     System.out.println(subSeq);
+    inserirNumero.close();
   }
 }

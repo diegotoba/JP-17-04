@@ -14,5 +14,6 @@ public class Exerc02 {
     }
     ;
     System.out.println("o resultado da operação é: " + variavel);
+    numero.close();
   }
 }

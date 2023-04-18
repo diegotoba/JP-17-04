@@ -19,6 +19,7 @@ public class Exerc01 {
     } else {
       System.out.println("Aluno reprovado");
     }
+    nota.close();
   }
 
 }

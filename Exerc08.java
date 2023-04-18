@@ -23,5 +23,6 @@ public class Exerc08 {
     } else {
       System.out.println("o numero " + n + " não é perfeito");
     }
+    input.close();
   }
 }
